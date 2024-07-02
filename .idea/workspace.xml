@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-END/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-END/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-END/src/main/java/com/hong/musichqend/MusicHqEndApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-END/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-END/src/test/java/com/hong/musichqend/MusicHqEndApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MUSIC-HQ-END" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,9 +24,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2igEhg9H6y2GEA8Wavm6dY0LVyO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "jbr-17",
     "last_opened_file_path": "E:/HQ-MUSIC",
     "node.js.detected.package.eslint": "true",
@@ -76,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719903942126</updated>
       <workItem from="1719903943066" duration="421000" />
+      <workItem from="1719909495272" duration="307000" />
     </task>
     <servers />
   </component>
