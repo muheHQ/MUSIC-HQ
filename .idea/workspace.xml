@@ -4,11 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="" />
+    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/vite.config.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,23 +66,38 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "last_opened_file_path": "E:/HQ-MUSIC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/HQ-MUSIC/MUSIC-HQ-END/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\HQ-MUSIC\\MUSIC-HQ-FRONT\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HQ-MUSIC\MUSIC-HQ-END\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MusicHqEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -70,11 +117,23 @@
       <option name="presentableId" value="Default" />
       <updated>1719903942126</updated>
       <workItem from="1719903943066" duration="421000" />
-      <workItem from="1719909495272" duration="307000" />
+      <workItem from="1719909495272" duration="4991000" />
+      <workItem from="1719917499870" duration="2788000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
