@@ -12,9 +12,17 @@
   </el-container>
 </template>
 
+
 <script setup>
 import Header from '@/components/Header.vue';
 import Aside from '@/components/Aside.vue';
 import Main from '@/components/Main.vue';
 import Footer from '@/components/Footer.vue';
 </script>
+
+<style>
+*{
+  padding: 0;
+  margin: 0;
+}
+</style>

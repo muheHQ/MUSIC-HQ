@@ -1,0 +1,1 @@
+export const MUSIC_NAME = 'HQ-MUSIC'

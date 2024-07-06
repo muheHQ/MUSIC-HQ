@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/label.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/musicName.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/routerName.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/img/HQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HQ.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/env.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/TheWelcome.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/WelcomeItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconCommunity.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconDocumentation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconEcosystem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconSupport.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/views/AboutView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/views/HomeView.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +29,7 @@
       <list>
         <option value="Class" />
         <option value="Vue Composition API Component" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -74,10 +65,11 @@
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/HQ-MUSIC/MUSIC-HQ-END/src/main/resources&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/HQ-MUSIC/MUSIC-HQ-FRONT/src/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -95,6 +87,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HQ-MUSIC\MUSIC-HQ-FRONT\src\img" />
+      <recent name="E:\HQ-MUSIC\img" />
       <recent name="E:\HQ-MUSIC\MUSIC-HQ-END\src\main\resources" />
     </key>
   </component>
@@ -118,7 +112,12 @@
       <updated>1719903942126</updated>
       <workItem from="1719903943066" duration="421000" />
       <workItem from="1719909495272" duration="4991000" />
-      <workItem from="1719917499870" duration="2788000" />
+      <workItem from="1719917499870" duration="3871000" />
+      <workItem from="1720011962051" duration="5950000" />
+      <workItem from="1720019667541" duration="1932000" />
+      <workItem from="1720145038045" duration="5512000" />
+      <workItem from="1720229848697" duration="26000" />
+      <workItem from="1720272981379" duration="1337000" />
     </task>
     <servers />
   </component>
