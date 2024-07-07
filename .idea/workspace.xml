@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/label.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/musicName.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/enum/routerName.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/img/HQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/HQ.jpg" afterDir="false" />
+    <list default="true" id="0e310926-6384-4061-bb8d-34d832418265" name="Changes" comment="header组件部分">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Aside.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MUSIC-HQ-FRONT/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +15,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Vue Composition API Component" />
         <option value="TypeScript File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,39 +46,48 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/HQ-MUSIC/MUSIC-HQ-FRONT/src/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;E:\\HQ-MUSIC\\MUSIC-HQ-FRONT\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "last_opened_file_path": "E:/HQ-MUSIC/MUSIC-HQ-END/src/main/java/com/hong/musichqend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "ts.external.directory.path": "E:\\HQ-MUSIC\\MUSIC-HQ-FRONT\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;vue.recent.templates&quot;: [
-      &quot;Vue Composition API Component&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "vue.recent.templates": [
+      "Vue Composition API Component"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HQ-MUSIC\MUSIC-HQ-END\src\main\java\com\hong\musichqend" />
+      <recent name="E:\HQ-MUSIC\MUSIC-HQ-END\src\main\java\com\hong\musichqend\tools" />
       <recent name="E:\HQ-MUSIC\MUSIC-HQ-FRONT\src\img" />
       <recent name="E:\HQ-MUSIC\img" />
       <recent name="E:\HQ-MUSIC\MUSIC-HQ-END\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hong.musichqend.config" />
+      <recent name="com.hong.musichqend.tools" />
     </key>
   </component>
   <component name="RunManager">
@@ -117,8 +115,19 @@
       <workItem from="1720019667541" duration="1932000" />
       <workItem from="1720145038045" duration="5512000" />
       <workItem from="1720229848697" duration="26000" />
-      <workItem from="1720272981379" duration="1337000" />
+      <workItem from="1720272981379" duration="3837000" />
+      <workItem from="1720277397680" duration="8180000" />
+      <workItem from="1720347518442" duration="6345000" />
     </task>
+    <task id="LOCAL-00001" summary="header组件部分">
+      <option name="closed" value="true" />
+      <created>1720274401642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720274401642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +143,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="header组件部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="header组件部分" />
   </component>
 </project>

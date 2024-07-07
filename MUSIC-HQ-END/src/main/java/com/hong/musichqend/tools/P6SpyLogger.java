@@ -1,4 +1,4 @@
-package com.hong.musichqend;
+package com.hong.musichqend.tools;
 
 /**
  * @Author HQ
